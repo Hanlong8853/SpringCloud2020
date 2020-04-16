@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Configuration;
  * Date: 2020/4/16 10:19 上午 
  *Description:  自动以负载均衡规则类
  */
-@Configuration
+//@Configuration
 public class MySelfRule {
     public IRule myRule()
     {
